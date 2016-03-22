@@ -1,0 +1,66 @@
+
+.play{
+height: 1271px;
+width: 2400px;
+border: 39px solid black;
+}
+.Left{
+display: inline-block;
+width: 1268px;
+height: 1272px;
+background-image: url(http://previews.123rf.com/images/vectaray/vectaray1403/vectaray140300002/26490772-Seamless-Art-Deco-Texture-Stock-Vector-pattern.jpg);
+background-size: 1428px ;
+}
+.Right{
+display: inline-block;
+width: 900px;
+height: 799px;
+
+}
+p{
+font-family: andes;
+display: inline-block;
+font-size: 115px;
+float: right;
+  cursor: pointer;
+}
+
+#maincontainer{
+border: 1px dashed green;
+width: initial;
+height: 1000px;
+margin: auto;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#spinner{
+border-radius: 100%;
+border: 1px solid black;
+width: 988px;
+height: 988px;
+padding-top: 10px;
+display: inline-block;
+}
+#board{
+border: 1px solid black;
+background-color: green;
+width: 1439px;
+height: 825px;
+display: inline-block;
+}
+#board2{
+border: 1px solid black;
+background-color: green;
+width: 1439px;
+height: 825px;
+display: inline-block;
+}
+.cell{
+border: 1px solid yellow;
+width: 50px;
+height: 50px;
+display: inline-block;
+}
+
+
